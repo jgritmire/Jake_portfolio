@@ -11,3 +11,9 @@ Data Science Portfolio
 * Consolidated the data at the county level in order to prepare the data for modeling
 * Utlized Scikitlearn's LinearRegression package to identify high risk US counties
 * Interpreted model coefficients to determine significant contributing factors to Covid Deaths
+
+# Project 3: Building a Movie Recommendation Algorithm
+* Compiled relevant information from IMDB to build a dataset of 1.6 million films
+* Restricted the dataset to 8,000 films based on popularity, as determined by the number of reviews the film had received
+* Scraped Wikipedia for plot synopses for each of the 8,000 films, and used NLP to identify similarities between films
+* Created a python script that takes 3 films that a user likes, and returns a list of 10 recommended films based on cosine similarity scores
