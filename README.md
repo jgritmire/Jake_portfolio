@@ -16,4 +16,4 @@ Data Science Portfolio
 * Compiled relevant information from IMDB to build a dataset of 1.6 million films
 * Restricted the dataset to 8,000 films based on popularity, as determined by the number of reviews the film had received
 * Scraped Wikipedia for plot synopses for each of the 8,000 films, and used NLP to identify similarities between films
-* Created a python script that takes 3 films that a user likes, and returns a list of 10 recommended films based on cosine similarity scores
+* Built a Python script that takes 3 films that a user likes, and returns a list of 10 recommended films based on cosine similarity scores
