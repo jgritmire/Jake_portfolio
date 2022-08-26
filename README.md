@@ -6,7 +6,7 @@ Data Science Portfolio
 * Created data visualizations using Matplotlib to better understand the data set
 * Used Scikitlearn to create a multivariate linear regression which was able to predict house pricing with an R2 value of 0.91
 
-# Project 2: Web Scraping to Predict Social Media Virality
+# [Project 2: Web Scraping to Predict Social Media Virality](https://github.com/jgritmire/Reddit_Web_Scraper/blob/main/README.md)
 * Utilized Selenium and BeatifulSoup to scrape key information on thousands of posts each day from Reddit
 * Categorized posts as being image only, text only, or video
 * Built a logistic regression that would predict whether a post would be successful based on a number of factors including day posted, time of day, and post content
