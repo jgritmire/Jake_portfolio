@@ -18,8 +18,16 @@ Data Science Portfolio
 * Built a logistic regression that would predict whether a post would be successful based on a number of factors including day posted, time of day, and post content
 * Performed data analysis to determine the optimal day, time, and type of post to get the greatest amount of post interaction
 
+![](https://github.com/jgritmire/Jake_portfolio/blob/main/images/Reddit_1.png)
+
+![](https://github.com/jgritmire/Jake_portfolio/blob/main/images/Reddit_3.png)
+
 # [Project 3: Building a Movie Recommendation Algorithm](https://github.com/jgritmire/Movie_Recommender)
 * Compiled relevant information from IMDB to build a dataset of 1.6 million films
 * Restricted the dataset to 8,000 films based on popularity, as determined by the number of reviews the film had received
 * Scraped Wikipedia for plot synopses for each of the 8,000 films, and used NLP to identify similarities between films
 * Built a Python script that takes 3 films that a user likes, and returns a list of 10 recommended films based on cosine similarity scores
+
+![](https://github.com/jgritmire/Jake_portfolio/blob/main/images/Movies_2.png)
+
+![](https://github.com/jgritmire/Jake_portfolio/blob/main/images/Movies_3.png)
