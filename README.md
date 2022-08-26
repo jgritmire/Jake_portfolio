@@ -6,11 +6,11 @@ Data Science Portfolio
 * Created data visualizations using Matplotlib to better understand the data set
 * Used Scikitlearn to create a multivariate linear regression which was able to predict house pricing with an R2 value of 0.91
 
-# Project 2: Identifying US Counties with High Covid-19 Burden
-* Worked with a team using Github to scrape, compiled, and cleaned a Covid-19 dataset which contained 43 Million observations of 34 variables. 
-* Consolidated the data at the county level in order to prepare the data for modeling
-* Utlized Scikitlearn's LinearRegression package to identify high risk US counties
-* Interpreted model coefficients to determine significant contributing factors to Covid Deaths
+#Project 2: Web Scraping to Predict Social Media Virality
+* Utilized Selenium and BeatifulSoup to scrape key information on thousands of posts each day from Reddit
+* Categorized posts as being image only, text only, or video
+* Built a logistic regression that would predict whether a post would be successful based on a number of factors including day posted, time of day, and post content
+* Performed data analysis to determine the optimal day, time, and type of post to get the greatest amount of post interaction
 
 # [Project 3: Building a Movie Recommendation Algorithm](https://github.com/jgritmire/Movie_Recommender)
 * Compiled relevant information from IMDB to build a dataset of 1.6 million films
