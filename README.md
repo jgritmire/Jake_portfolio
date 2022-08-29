@@ -6,7 +6,7 @@ Data Science Portfolio
 * Used Numpy and Pandas to clean a dataset of 2,930 observations of 82 variables which detail the physical characteristics of homes sold in Ames, Iowa between 2006 and 2010
 * Created data visualizations using Matplotlib to better understand the data set
 * Used Scikitlearn to create a multivariate linear regression which was able to predict house pricing with an R2 value of 0.91
-#Concluding Remarks
+#### Concluding Remarks
 *For my final model, I elected to utilize interaction terms between the 5 variables with the highest correlation with sale price. This added 15 variables, increasing my number of input variables to 43. This model, with 95% confidence, has a R2 value of between 0.89 and 0.93. Most importantly, once I included the interaction terms the model no longer consistently undervalued the most expensive houses in the dataset. When applied to the testing data, this model models predictions were on average $23,300 off of the actual sale price.
 
 ![](/images/Housing_1.png)
