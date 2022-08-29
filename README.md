@@ -1,4 +1,5 @@
-# Jake_Portfolio
+# Jake Ritmire's Portfolio
+
 Data Science Portfolio
 
 # [Project 1: Housing Sale Price Estimator: Ames, Iowa](https://github.com/jgritmire/Project_1_Housing_Regression)
